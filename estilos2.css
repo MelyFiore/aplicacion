@@ -1,10 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&display=swap');
 
 .contenedor {
 	color: #262626;
 	margin: 0 auto;
 	width: 295px;
-	
 	background: white;
 }
 
@@ -13,6 +12,7 @@ h3 {
 	Font-family: Poppins;
 	Font-style: Regular;
 	Font-size: 22px;
+	text-align: center;
 }
 .fondo {
 	background: url(fondo.png);
@@ -21,10 +21,14 @@ h3 {
 p {
 	background-color: white;
 	border-radius: 10px;
+	Font-family: Raleway;
+	Font-style: Regular;
+	Font-size: 16px;
+
 }
 
 .fondo h3 {
 	Font-family: Poppins;
 	Font-style: Regular;
-	Font-size: 22px;
+	Font-size: 16px;
 	color: #FFFFFF;
