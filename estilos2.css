@@ -10,7 +10,6 @@
 h3 {
 	color: #262626;
 	Font-family: Poppins;
-	Font-style: Regular;
 	Font-size: 22px;
 	text-align: center;
 }
@@ -21,14 +20,13 @@ h3 {
 p {
 	background-color: white;
 	border-radius: 10px;
-	Font-family: Raleway;
-	Font-style: Regular;
+	font-family: 'Raleway', sans-serif;;
 	Font-size: 16px;
 
 }
 
 .fondo h3 {
-	Font-family: Poppins;
-	Font-style: Regular;
-	Font-size: 16px;
+	Font-family: 'Poppins';
+	Font-size: 14px;
 	color: #FFFFFF;
+	font-weight: 400px;
