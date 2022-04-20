@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.contenedor {
+	color: #262626;
+	margin: 0 auto;
+	width: 295px;
+	
+	background: white;
+}
+
+h3 {
+	color: #262626;
+	Font-family: Poppins;
+	Font-style: Regular;
+	Font-size: 22px;
+}
+.fondo {
+	background: url(fondo.png);
+}
+
+p {
+	background-color: white;
+	border-radius: 10px;
+}
+
+.fondo h3 {
+	Font-family: Poppins;
+	Font-style: Regular;
+	Font-size: 22px;
+	color: #FFFFFF;

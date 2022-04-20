@@ -9,9 +9,11 @@
 }
 img {
 	border-radius: 50px;
-	width: 108px;
+	Width: 130px;
 	margin: 0 auto;
 	display: block;
+	margin-top: 40px;
+	border-radius: 100px;
 }
 
 .contenedor .nombre {
@@ -20,14 +22,17 @@ img {
 	font-style: normal;
 	font-family: 'Poppins', sans-serif;
 	color: #262626;
+	margin-top: 7px;
+    margin-bottom: 6px;
 }
 
 .contenedor p {
 	text-align: center;
 	font-size: 14px;
+	font-style: normal;
 	font-family: 'Raleway', sans-serif;
 	color: #A3A7BA;
-
+	padding-bottom: 40px;
 }
 
 .contenedor h4 {
@@ -42,6 +47,6 @@ h4, p {
 }
 h4 {
 	padding-left: 56px;
-	padding-bottom: 23;
-	padding-top: 24;
+	padding-bottom: 30px;
+	padding-top: 15px;
 }
